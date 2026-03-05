@@ -1,0 +1,229 @@
+[
+  {
+    "Yetki Belgesi": "A1 KAMU",
+    "Açıklama": "Otomobille yurtiçi, tarifesiz olarak yolcu taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 126.684 TL "
+  },
+  {
+    "Yetki Belgesi": "A1 ",
+    "Açıklama": "Otomobille yurtiçi, tarifeli (olarak yolcu taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 126.684 TL "
+  },
+  {
+    "Yetki Belgesi": "A2",
+    "Açıklama": "Otomobille uluslararası, sadece tarifesiz olarak grup yolcu taşımacılığı yapacak gerçek ve tüzel kişilere verilir. Bir tane sınır kapısında faaliyette bulunmak üzere verilir.",
+    "Fiyat": " 190.035 TL "
+  },
+  {
+    "Yetki Belgesi": "B1"
+  },
+  {
+    "Yetki Belgesi": "Otobüsle ticari ve tarifeli olarak yurtiçi ve/veya uluslararası yolcu taşımacılığı yapacak gerçek"
+  },
+  {
+    "Yetki Belgesi": "ve tüzel kişilere verilir."
+  },
+  {
+    "Açıklama": "  1.540.293 TL "
+  },
+  {
+    "Yetki Belgesi": "B2",
+    "Açıklama": "Otobüsle yurtiçi ve/veya uluslararası ticari ve tarifesiz yolcu taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": "  770.086 TL "
+  },
+  {
+    "Yetki Belgesi": "B3",
+    "Açıklama": "Hususi taşımacılık faaliyetinde bulunarak, uluslararası ve yurtiçinde kendi personelinin, kendi diyaliz merkezlerinde tedavi hastaların, kendi özel eğitim ve rehabilitasyon merkezlerinde destek eğitimi alan engelli bireylerin ve bunların velisinin-vasisinin taşımasını yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": "  63.331 TL "
+  },
+  {
+    "Yetki Belgesi": "C1",
+    "Açıklama": "Yurtiçi ve/veya uluslararası hususi taşımacılık yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": "  153.599 TL "
+  },
+  {
+    "Yetki Belgesi": "C3",
+    "Açıklama": "Yurtiçi ve/veya uluslararası ticari amaçla taşınma eşyası taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 126.684 TL "
+  },
+  {
+    "Yetki Belgesi": "D1",
+    "Açıklama": "Otobüsle Ticari ve tarifeli olarak yurtiçi yolcu taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": "  924.186 TL "
+  },
+  {
+    "Yetki Belgesi": "D2",
+    "Açıklama": "Otobüsle Ticari ve tarifesiz olarak yurtiçi yolcu taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 462.039 TL "
+  },
+  {
+    "Yetki Belgesi": "D2(Ö)",
+    "Açıklama": "Yurtiçinde engelli ve diyaliz hastalarını taşıyacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 462.039 TL "
+  },
+  {
+    "Yetki Belgesi": "D3",
+    "Açıklama": "Hususi taşımacılık faaliyetinde bulunarak, yurtiçinde kendi personelinin, kendi diyaliz merkezlerinde tedavi hastaların, kendi özel eğitim ve rehabilitasyon merkezlerinde destek eğitimi alan engelli bireylerin ve bunların velisinin-vasisinin taşımasını yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": "  63.331 TL "
+  },
+  {
+    "Yetki Belgesi": "D4",
+    "Açıklama": "Ticari olarak, taşıma mesafesine bakılmaksızın iliçi ve 100 kilometreye kadar olan şehirlerarası tarifeli ve tarifesiz olarak yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": "  50.662 TL "
+  },
+  {
+    "Yetki Belgesi": "D4*",
+    "Açıklama": "Ticari olarak, sadece 1 adet otobüsle yetki belgesi alacak olan gerçek kişiler için taşıma mesafesine bakılmaksızın iliçi ve 100 kilometreye kadar olan taşımaları yapacak gerçek kişilere verilir.",
+    "Fiyat": "  12.666 TL "
+  },
+  {
+    "Yetki Belgesi": "S",
+    "Açıklama": "Ticari amaçla yurtiçi servis taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": "  462.039 TL "
+  },
+  {
+    "Yetki Belgesi": "S*",
+    "Açıklama": "Ticari amaçla yurtiçi servis taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": "  23.102 TL "
+  },
+  {
+    "Yetki Belgesi": "F1",
+    "Açıklama": "Ticari amaçla yurtiçinde yolcu taşımacılığı alanında acentelik yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": "  50.662 TL "
+  },
+  {
+    "Yetki Belgesi": "F1(@)",
+    "Açıklama": "Sadece internet üzerinden faaliyet göstermek üzere, yurtiçinde yolcu taşımacılığı alanında acentelik yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 506.620 TL "
+  },
+  {
+    "Yetki Belgesi": "F2",
+    "Açıklama": "Ticari amaçla yurtiçi ve/veya uluslararası yolcu taşımacılığı alanında acentelik yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": "  76.001 TL "
+  },
+  {
+    "Yetki Belgesi": "F2(@)",
+    "Açıklama": "Sadece internet üzerinden faaliyet göstermek üzere, uluslararası ve yurtiçinde yolcu taşımacılığı alanında acentelik yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 760.010 TL "
+  },
+  {
+    "Yetki Belgesi": "G1",
+    "Açıklama": "Ticari amaçla, yurtiçi eşya acentelik yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 50.662 TL "
+  },
+  {
+    "Yetki Belgesi": "G2",
+    "Açıklama": "Ticari amaçla Yurtiçi ve/veya Uluslararası eşya taşımacılığı alanında acentelik yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 76.001 TL "
+  },
+  {
+    "Yetki Belgesi": "G3",
+    "Açıklama": "Ticari amaçla yurtiçi ve/veya uluslararası kargo acenteliği yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 50.662 TL "
+  },
+  {
+    "Yetki Belgesi": "H1",
+    "Açıklama": "Ticari amaçla, yurtiçi eşya taşımacılığı alanında komisyonculuk yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 50.662 TL "
+  },
+  {
+    "Yetki Belgesi": "H2",
+    "Açıklama": "Ticari amaçla yurtiçi ve uluslararası eşya taşımacılığı alanında komisyonculuk yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 76.001 TL "
+  },
+  {
+    "Yetki Belgesi": "K1",
+    "Açıklama": "Ticari amaçla eşya taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 126.684 TL "
+  },
+  {
+    "Yetki Belgesi": "K1(Ö)",
+    "Açıklama": "Ticari amaçla kurtarıcı işi yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 126.684 TL "
+  },
+  {
+    "Yetki Belgesi": "K1*",
+    "Açıklama": "Ticari amaçla, sadece kamyonetlerle eşya taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 31.671 TL "
+  },
+  {
+    "Yetki Belgesi": "K2",
+    "Açıklama": "Hususi amaçla, eşya taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 126.684 TL "
+  },
+  {
+    "Yetki Belgesi": "K2*",
+    "Açıklama": "Hususi amaçla, sadece kamyonetlerle eşya taşımacılığı yapacak gerçek ve tüzel kişiliklere verilir.",
+    "Fiyat": " 31.671 TL "
+  },
+  {
+    "Yetki Belgesi": "K3",
+    "Açıklama": "Ticari amaçla, taşınma eşyası taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 63.331 TL "
+  },
+  {
+    "Yetki Belgesi": "K3*",
+    "Açıklama": "Kamyonet cinsli taşıtla, ticari amaçla taşınma eşyası taşımacılığı yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 15.833 TL "
+  },
+  {
+    "Yetki Belgesi": "L1",
+    "Açıklama": "Ticari amaçla yurtiçi lojistik işletmeciliği yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 1.267.018 TL "
+  },
+  {
+    "Yetki Belgesi": "L2",
+    "Açıklama": "Ticari amaçla, Yurtiçi ve/veya uluslararası lojistik işletmeciliği yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 1.900.544 TL "
+  },
+  {
+    "Yetki Belgesi": "M1",
+    "Açıklama": "Ticari amaçla tarifeli olarak iliçi kargo işletmeciliği yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 253.395 TL "
+  },
+  {
+    "Yetki Belgesi": "M2",
+    "Açıklama": "Ticari amaçla tarifeli olarak Yurtiçi ve/veya uluslararası kargo işletmeciliği yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 1.900.544 TL "
+  },
+  {
+    "Yetki Belgesi": "N1",
+    "Açıklama": "Ticari amaçla, iliçi nakliyat ambarı işletmeciliği yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 126.684 TL "
+  },
+  {
+    "Yetki Belgesi": "N2",
+    "Açıklama": "Ticari amaçla, yurtiçi nakliyat ambarı işletmeciliği yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 253.395 TL "
+  },
+  {
+    "Yetki Belgesi": "P1",
+    "Açıklama": "Ticari veya hususi amaçla iliçi veya farklı illerin birbirine komşu ilçeleri arasında kurye işletmeciliği faaliyeti göstereceklere verilir.",
+    "Fiyat": " 126.684 TL "
+  },
+  {
+    "Yetki Belgesi": "P1*",
+    "Açıklama": "Ticari veya hususi amaçla iliçi veya farklı illerin birbirine komşu ilçeleri arasında kurye işletmeciliği faaliyeti göstereceklere verilir.",
+    "Fiyat": " 19.001 TL "
+  },
+  {
+    "Yetki Belgesi": "P2",
+    "Açıklama": "Ticari olarak, bir veya birden fazla ilde iliçi veya farklı illerin birbirine komşu ilçeleri arasında kurye işletmeciliği faaliyet göstereceklere verilir.",
+    "Fiyat": " 1.900.544 TL "
+  },
+  {
+    "Yetki Belgesi": "T1",
+    "Açıklama": "Büyükşehir Belediyesi sınırları içinde yolcu terminali işletmeciliği yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 63.331 TL "
+  },
+  {
+    "Yetki Belgesi": "T2",
+    "Açıklama": "Büyükşehir Belediyesi sınırları dışında kalan yerleşim birimlerinde yolcu terminali işletmeciliği yapacak gerçek ve tüzel kişilere verilir.",
+    "Fiyat": " 63.331 TL "
+  },
+  {
+    "Yetki Belgesi": "T3",
+    "Açıklama": "Eşya terminali işletmeciliği yapacaklara, verilir.",
+    "Fiyat": " 63.331 TL "
+  }
+]
