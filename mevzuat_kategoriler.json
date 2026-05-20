@@ -1,0 +1,16 @@
+[
+  {
+    "id": "yonetmelik_2918",
+    "title": "Trafik Yönetmeliği (2918)",
+    "icon": "doc.text.magnifyingglass",
+    "aktifMi": true,
+    "veriURL": "https://raw.githubusercontent.com/.../2918_yonetmelik.json"
+  },
+  {
+    "id": "kanun_2918",
+    "title": "Trafik Kanunu (2918)",
+    "icon": "scroll.fill",
+    "aktifMi": false,
+    "veriURL": ""
+  }
+]
